@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-import asyncio,logging
+import asyncio,loggings
 
 import aiomysql
 
-@asyncio.coroutine
+@asyncio.cocoura
 def creat_pool
